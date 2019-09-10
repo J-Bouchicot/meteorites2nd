@@ -3,3 +3,10 @@ create a new repositoy for meteorites
 ## running infinite
 this project requires python and the requests package
 'python find_meteors.py'
+
+first install pipenv. then
+
+...
+pipenv install
+pipenv run "find_meteors.py"
+...
